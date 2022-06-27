@@ -38,7 +38,7 @@ class Slide{
             },
             //可以继续增加图片
         ];
-        this.imageUrl = '../img/仿网易云轮播图/';
+        this.imageUrl = 'img/仿网易云轮播图/';
 
         //定时器
         this.timer = null;
